@@ -2064,7 +2064,7 @@ purpleblocksrt {
 
 purpleblocksRAY {
   max-width: 1200px;
-  margin: 30px auto;
+  margin: 0px auto;
   padding: 0 10px;
   width: 100%; 
   display: grid;
@@ -4127,7 +4127,7 @@ h1.tag {
   padding-top: 90px !important;
   background-color: #fff !important;
   margin-top: -40px !important;
-  margin-bottom: 35px !important;
+  margin-bottom: 28px !important;
 }
 
 .container222 {
