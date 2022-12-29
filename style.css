@@ -2728,6 +2728,7 @@ img.navlogo {
   object-fit: contain;
   margin-left: -8px;
   margin-top: 10px;
+  padding-left: 4px;
 }
 
 @media screen and (max-width: 980px) {
@@ -2736,6 +2737,8 @@ img.navlogo {
   object-fit: contain;
   margin-left: -8px;
   margin-top: 10px;
+      padding-left: 4px;
+
 }
 }
 
@@ -2745,6 +2748,7 @@ img.navlogo {
   object-fit: contain;
   margin-left: -8px;
   margin-top: 10px;
+      padding-left: 4px;
 }
 }
 
