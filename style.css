@@ -1673,7 +1673,7 @@ line-height: 1.3 !important;
     font-family: "Saoecom2font" !important;
 line-height: 1.1 !important;
   letter-spacing: 0.01em !important;
-  color: #221F20 !important;
+  color: #221f20 !important;
   margin-bottom: 15px !important;
   text-align: left !important;
   margin-right:  3% !important;
@@ -1682,14 +1682,6 @@ line-height: 1.1 !important;
   padding-top: 6px !important;
   padding-right: 15px !important;
   padding-left: 15px !important;
-  background-color: #f3ec78;
-    background-image: linear-gradient(47deg, #ffcad9, #ec7272, rgb(211 150 150));
-    background-size: 40%;
-    -webkit-background-clip: text;
-    -moz-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    -moz-text-fill-color: transparent;
-
 }
 
 .entranceZ1sub {
