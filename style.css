@@ -492,7 +492,7 @@ img.btnsub2-icon {
     font-family: "Saoecom2font" !important;
     text-align: center !important;
     margin-top: 5px !important;
-    margin-bottom: 20px !important;
+    margin-bottom: 30px !important;
     margin-left: 25px !important;
     margin-right: 10px !important;
     border-style: dashed;
@@ -519,7 +519,7 @@ img.btnsub2-icon {
     font-family: "Saoecom2font" !important;
     text-align: center !important;
     margin-top: 5px !important;
-    margin-bottom: 20px !important;
+    margin-bottom: 30px !important;
     margin-left: 25px !important;
     margin-right: 10px !important;
     border-style: dashed;
@@ -1400,7 +1400,7 @@ margin-top: -8px !important;
 
 img.GIF {
   width: 100% !important;
-  padding-top: 20px;
+  padding-top: 0px;
   padding-bottom: -2px !important;
     padding-left: 0px !important;
     padding-right: 0px !important;
@@ -1412,7 +1412,7 @@ border-radius: 0px 0px 0px 0px !important;
 @media screen and (max-width: 980px) {
   img.GIF {
 		    width: 100% !important;
-      padding-top: 10px;
+      padding-top: 0px;
 
 	}
 }
@@ -1420,7 +1420,48 @@ border-radius: 0px 0px 0px 0px !important;
 @media screen and (max-width: 680px) {
 	img.GIF {
 		    width: 100% !important;
-      padding-top: 10px;
+      padding-top: 0px;
+
+	}
+}
+
+
+
+img.GIF001 {
+  width: 100% !important;
+  padding-top: 0px;
+  padding-bottom: -2px !important;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+border-radius: 0px 0px 0px 0px !important;
+  opacity: 0.6 !important;
+}
+
+img.GIF001:hover {
+  width: 100% !important;
+  padding-top: 0px;
+  padding-bottom: -2px !important;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+border-radius: 0px 0px 0px 0px !important;
+  opacity: 0.6 !important;
+  img:
+  src="https://cdn.glitch.global/9bab6148-f5ee-4f2c-9b68-1e6f7735a053/3.png?v=1672397264828"
+  class="GIF" />
+}
+
+@media screen and (max-width: 980px) {
+  img.GIF001 {
+		    width: 100% !important;
+      padding-top: 0px;
+
+	}
+}
+
+@media screen and (max-width: 680px) {
+	img.GIF001 {
+		    width: 100% !important;
+      padding-top: 0px;
 
 	}
 }
@@ -4028,7 +4069,7 @@ h1.tag {
     font-family: "Saoecom2font" !important;
     text-align: center !important;
     margin-top: 5px !important;
-    margin-bottom: 20px !important;
+    margin-bottom: 30px !important;
     margin-left: 25px !important;
     margin-right: 10px !important;
     border-style: dashed;
