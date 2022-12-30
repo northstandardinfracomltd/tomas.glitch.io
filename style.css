@@ -4344,7 +4344,6 @@ a:hover {
 
 .dd-button {
   display: inline-block;
-  background-color: #ffffff;
   white-space: nowrap;
     padding-top: 15px !important;
     padding-bottom: 15px !important;
@@ -4368,7 +4367,6 @@ a:hover {
 
 .dd-button:hover {
   display: inline-block;
-  background-color: #ffffff;
   white-space: nowrap;
     padding-top: 15px !important;
     padding-bottom: 15px !important;
