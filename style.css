@@ -4424,3 +4424,26 @@ a:hover {
   padding: 0;
   border-bottom: 1px solid #e1e1e3;
 }
+
+
+
+
+
+.containernav {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.columnnav {
+  flex: 33.33%;
+  max-width: 3%;
+  box-sizing: border-box;
+  padding: 20px;
+}
+
+@media (max-width: 600px) {
+  .columnnav {
+    flex: 100%;
+    max-width: 100%;
+  }
+}
