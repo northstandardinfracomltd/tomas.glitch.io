@@ -1142,7 +1142,7 @@ margin-top: -2px !important;
 }
 
 .combat1 {
-  background: #fff;
+  background: #1f1f23;
   width: 100%;
   display: flex;
   flex-direction: column;
@@ -2124,7 +2124,7 @@ purpleblocksRAY {
 }
 
 purpleblocksS {
-  background-color: #fff !important;
+  background-color: #1f1f23 !important;
 background-size: 205.88px 254.24px;
   max-width: 100% !important;
   padding: 0px 0px;
@@ -2134,7 +2134,7 @@ padding-left: 20px !important;
   display: grid;
   /*Define our columns */
   grid-gap: 1em;
-    border-top: solid 1px #e1e1e3;
+    border-top: solid 1px #1f1f23;
 
 }
 
@@ -4270,6 +4270,7 @@ purpleblocks {
   margin-top: 5px !important;
   font-family: "Saoecom2fontlight" !important;
   border: 1px solid #242429 !important;
+  margin-bottom: 90px !important;
 }
 
 .item {
@@ -4280,6 +4281,8 @@ purpleblocks {
   font-family: "Saoecom2fontlight" !important;
   font-size: 22px !important;
   border: 0px solid #f4f4f4 !important;
+    color: #efeff1 !important;
+
   
   
   & + & {
@@ -4295,7 +4298,7 @@ purpleblocks {
   padding: 12px;
   width: 100% !important;
   font-family: "Saoecom2fontlight" !important;
-  color: #221F20 !important;
+  color: #efeff1 !important;
   font-size: 22px !important;
   background-color: #1c1c20 !important;
     border: 0px solid #f4f4f4 !important;
@@ -4316,7 +4319,6 @@ purpleblocks {
   padding: 12px;
   margin: -12px;
   font-family: "Saoecom2fontlight" !important;
-  color: #221F20 !important;
   font-size: 22px !important;
     border: 0px solid #f4f4f4 !important;
 
@@ -4335,7 +4337,7 @@ purpleblocks {
 .item-text {
   font-family: "Saoecom2fontlight" !important;
   font-size: 1.2em;
-color: #221F20 !important;
+color: #efeff1 !important;
   flex-grow: 1;
   font-size: 22px !important;
 }
