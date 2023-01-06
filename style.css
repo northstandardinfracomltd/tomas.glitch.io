@@ -2069,15 +2069,7 @@ main {
   
 }
 
-purpleblocks {
-  max-width: 1200px;
-  margin: 30px auto;
-  padding: 0 10px;
-  width: 100%; 
-  display: grid;
-  /*Define our columns */
-  grid-gap: 1em;
-}
+
 
 
 purpleblocksblue {
@@ -2800,6 +2792,7 @@ img.navlogo {
 
 .nav {
   position: fixed;
+  z-index: 2 !important;
   top: 0;
   width: 100%;
   justify-content: space-between;
@@ -4171,6 +4164,13 @@ h1.tag {
   margin-bottom: 28px !important;
 }
 
+.containerRSS {
+  padding-top: 90px !important;
+  background-color: #fff !important;
+  margin-top: -40px !important;
+  margin-bottom: 28px !important;
+}
+
 .container222 {
   padding-top: 90px !important;
   background-color: red !important;
@@ -4515,4 +4515,16 @@ a:hover {
 .linknav:hover {
   color: #ff0000;
   text-decoration: underline;
+}
+
+  
+  
+  purpleblocksRSS {
+  max-width: 1200px;
+  margin: 30px auto;
+  padding: 0 10px;
+  width: 100%; 
+  display: grid;
+  /*Define our columns */
+  grid-gap: 1em;
 }
