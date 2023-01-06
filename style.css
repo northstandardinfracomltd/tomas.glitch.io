@@ -1842,6 +1842,24 @@ line-height: 1.3 !important;
 }
 
 
+.entranceZ13000P3BB {
+  font-size: 22px !important;
+    font-family: "Saoecom2fontlight" !important;
+line-height: 1.3 !important;
+  letter-spacing: 0.01em !important;
+  color: #221F20 !important;
+  margin-bottom: 12px !important;
+  text-align: center !important;
+  margin-right:  3% !important;
+  margin-left: 3% !important;
+  padding-bottom: 11px !important;
+  padding-top: 6px !important;
+  padding-right: 15px !important;
+  padding-left: 15px !important;
+}
+
+
+
 .entranceZ13000P31 {
   font-size: 22px !important;
     font-family: "Saoecom2fontlight" !important;
@@ -4698,3 +4716,89 @@ line-height: 1.1 !important;
 }
 }
   
+  
+  
+.btnsub000P3rayabsolu {
+    padding-top: 18px !important;
+  width: 86% !important;
+    padding-bottom: 18px !important;
+    padding-right: 25px !important;
+    padding-left: 25px !important;
+    font-size: 1.2rem;
+    font-weight: var(--base-text-weight-medium, 500);
+    line-height: 20px;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    border-radius: 0px;
+    font-family: "Saoecom2font" !important;
+    text-align: center !important;
+    margin-top: 0px !important;
+    margin-bottom: 55px !important;
+    margin-left: 58px !important;
+    margin-right: 58px !important;
+    border-style: dashed;
+    background-color: #dc3136;
+    color: #ffffff !important;
+    border: 1px solid #dc3136;
+}
+
+
+.btnsub000P3rayabsolu:hover {
+    padding-top: 18px !important;
+  width: 86% !important;
+    padding-bottom: 18px !important;
+    padding-right: 25px !important;
+    padding-left: 25px !important;
+    font-size: 1.2rem;
+    font-weight: var(--base-text-weight-medium, 500);
+    line-height: 20px;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    border-radius: 0px;
+    font-family: "Saoecom2font" !important;
+    text-align: center !important;
+    margin-top: 0px !important;
+    margin-bottom: 55px !important;
+    margin-left: 58px !important;
+    margin-right: 58px !important;
+    border-style: dashed;
+    background-color: #dc3136;
+    color: #ffffff !important;
+    border: 1px solid #dc3136;
+}
+  
+  
+  .combat000P3absoluX9 {
+  background-image: url("https://cdn.glitch.global/2f73cbf9-570d-4044-b35c-1ae63a96f6c4/ABOUT2.png?v=1672662947584");
+  background-size: cover;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 0px;
+  border-radius: 0px !important;
+  border-style: solid;
+  border-bottom: 1px solid #e1e1e3 !important;
+  margin-bottom: 5px !important;
+    position: relative;
+  top: 0;
+  transition: top ease 0.5s;
+}
+  
+  
+  
+  .container4CCC {
+  padding-top: 20px !important;
+  background-color: #f5f5f6 !important;
+  margin-top: 0px !important;
+  border-top: 1px solid #e1e1e3 !important;
+    border-bottom: 1px solid #e1e1e3 !important;
+  padding-bottom: 20px !important;
+}
