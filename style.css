@@ -2820,7 +2820,7 @@ img.navlogo {
   transition-timing-function: ease-in;
   transition: all 0.5s;
   background: #18181b !important;
-  border-bottom: 1px solid #e1e1e3 !important;
+  border-bottom: 1px solid #242429 !important;
     display: flex;
   align-items: center;
 }
@@ -4361,14 +4361,14 @@ color: #221F20 !important;
 
 a {
   text-decoration: none;
-  color: #000000;
+  color: #efeff1;
   font-family: "Saoecom2fontlight" !important;
   font-size: 1.2rem;
 }
 
 
 a:hover {
-  color: #222222;
+  color: #bb9716;
   font-family: "Saoecom2fontlight" !important;
   font-size: 1.2rem;
 }
@@ -4399,9 +4399,9 @@ a:hover {
     font-family: "Saoecom2font" !important;
     text-align: center !important;
     border-style: dashed;
-    background-color: #dc3136;
+    background-color: #957a1e;
     color: #ffffff !important;
-    border: 1px solid #dc3136;
+    border: 1px solid #957a1e;
 }
 
 
@@ -4422,9 +4422,9 @@ a:hover {
     font-family: "Saoecom2font" !important;
     text-align: center !important;
     border-style: dashed;
-    background-color: #dc3136;
+    background-color: #957a1e;
     color: #ffffff !important;
-    border: 1px solid #dc3136;
+    border: 1px solid #;
 }
 
 
@@ -4562,14 +4562,14 @@ a:hover {
 
 
   
-  .linknav {
-  color: #0000ff;
-  text-decoration: none;
+.linknav {
+  color: #efeff1 !important;
+  text-decoration: none !important;
 }
 
 .linknav:hover {
-  color: #ff0000;
-  text-decoration: underline;
+  color: #efeff1 !important;
+  text-decoration: underline !important;
 }
 
   
