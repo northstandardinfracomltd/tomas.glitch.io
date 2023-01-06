@@ -4164,6 +4164,20 @@ h1.tag {
   margin-bottom: 28px !important;
 }
 
+
+purpleblocks {
+  max-width: 1200px;
+  margin: 30px auto;
+  padding: 0 10px;
+  width: 100%; 
+  display: grid;
+  /*Define our columns */
+  grid-gap: 1em;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('image-url.jpg');
+  background-size: cover;
+}
+
+
 .containerRSS {
   padding-top: 90px !important;
   background-color: #fff !important;
@@ -4528,3 +4542,5 @@ a:hover {
   /*Define our columns */
   grid-gap: 1em;
 }
+  
+  
