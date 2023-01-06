@@ -4162,7 +4162,31 @@ h1.tag {
   background-color: #fff !important;
   margin-top: -40px !important;
   margin-bottom: 28px !important;
+    max-width: 100%;
+  margin: 30px auto;
+  padding: 0 10px;
+  width: 100%; 
+  display: grid;
+  grid-gap: 1em;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://cdn.glitch.global/9bab6148-f5ee-4f2c-9b68-1e6f7735a053/QVT%20RPS.png?v=1672361267762');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  
 }
+
+
+
+.container2 {
+  padding-top: 90px !important;
+  background-color: #fff !important;
+  margin-top: -40px !important;
+  margin-bottom: 28px !important;
+}
+
+
+
 
 
 purpleblocks {
@@ -4173,8 +4197,6 @@ purpleblocks {
   display: grid;
   /*Define our columns */
   grid-gap: 1em;
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('image-url.jpg');
-  background-size: cover;
 }
 
 
