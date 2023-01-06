@@ -4542,6 +4542,7 @@ a:hover {
   }
 }
 
+
   
   .linknav {
   color: #0000ff;
@@ -4565,4 +4566,135 @@ a:hover {
   grid-gap: 1em;
 }
   
+  
+  purpleblocksabsolu {
+  max-width: 100%;
+  margin: 0px auto;
+  padding: 0 0px;
+  width: 100%; 
+  display: grid;
+  /*Define our columns */
+  grid-gap: 1em;
+}
+  
+  .columnsabsolu {
+  background: #fff !important;
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: center;
+	margin-top: 12px;
+  	margin-bottom: 20px;
+	margin-right: 0px;
+	margin-left: 0px;
+}
+
+  
+  
+.combat000P3absolu {
+  background: #ffffff;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 0px;
+  border-radius: 0px !important;
+  border-style: solid;
+  border-bottom: 1px solid #e1e1e3 !important;
+  margin-bottom: 5px !important;
+    position: relative;
+  top: 0;
+  transition: top ease 0.5s;
+}
+
+
+
+@media screen and (max-width: 980px) {
+  combat000P3absolu:hover {
+  top: 0 !important;
+}
+}
+
+@media screen and (max-width: 680px) {
+	combat000P3absolu:hover {
+  top: 0 !important;
+}
+}
+  
+  
+  
+.entranceZ1titleabsolu {
+  font-size: 55px !important;
+    font-family: "Saoecom2font" !important;
+line-height: 1.1 !important;
+  color: #b4b3ad !important;
+  
+line-height: 1.1 !important;
+  
+  margin-bottom: 40px !important;
+  text-align: center !important;
+  
+  margin-right:  20px !important;
+  margin-left: 20px !important;
+  
+  margin-top: 110px !important;
+  padding-top: 6px !important;
+  
+  padding-right: 3px !important;
+  padding-left: 3px !important;
+
+}
+
+
+
+
+@media screen and (max-width: 980px) {
+  .entranceZ1titleabsolu {
+  font-size: 55px !important;
+    font-family: "Saoecom2font" !important;
+line-height: 1.1 !important;
+  color: #b4b3ad !important;
+  
+line-height: 1.1 !important;
+  
+  margin-bottom: 40px !important;
+  text-align: center !important;
+  
+  margin-right:  20px !important;
+  margin-left: 20px !important;
+  
+  margin-top: 110px !important;
+  padding-top: 6px !important;
+  
+  padding-right: 3px !important;
+  padding-left: 3px !important;
+
+}
+}
+
+@media screen and (max-width: 680px) {
+	.entranceZ1titleabsolu {
+  font-size: 45px !important;
+    font-family: "Saoecom2font" !important;
+line-height: 1.1 !important;
+  color: #b4b3ad !important;
+  
+line-height: 1.1 !important;
+  
+  margin-bottom: 40px !important;
+  text-align: center !important;
+  
+  margin-right:  20px !important;
+  margin-left: 20px !important;
+  
+  margin-top: 110px !important;
+  padding-top: 6px !important;
+  
+  padding-right: 3px !important;
+  padding-left: 3px !important;
+
+}
+}
   
