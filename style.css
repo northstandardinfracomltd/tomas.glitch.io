@@ -476,11 +476,11 @@ img.btnsub2-icon {
 
 
 .btnsub000P3raycac {
-    padding-top: 18px !important;
-    padding-bottom: 18px !important;
-    padding-right: 25px !important;
-    padding-left: 25px !important;
-    font-size: 1.2rem;
+    padding-top: 12px !important;
+    padding-bottom: 12px !important;
+    padding-right: 22px !important;
+    padding-left: 22px !important;
+    font-size: 1.1rem;
     font-weight: var(--base-text-weight-medium, 500);
     line-height: 20px;
     white-space: nowrap;
@@ -496,18 +496,18 @@ img.btnsub2-icon {
     margin-left: 25px !important;
     margin-right: 10px !important;
     border-style: dashed;
-    background-color: #dc3136;
+    background-color: #ab8a17;
     color: #ffffff !important;
-    border: 1px solid #dc3136;
+    border: 1px solid #ab8a17;
 }
 
 
 .btnsub000P3raycac:hover {
-    padding-top: 18px !important;
-    padding-bottom: 18px !important;
-    padding-right: 25px !important;
-    padding-left: 25px !important;
-    font-size: 1.2rem;
+    padding-top: 12px !important;
+    padding-bottom: 12px !important;
+    padding-right: 22px !important;
+    padding-left: 22px !important;
+    font-size: 1.1rem;
     font-weight: var(--base-text-weight-medium, 500);
     line-height: 20px;
     white-space: nowrap;
@@ -523,9 +523,9 @@ img.btnsub2-icon {
     margin-left: 25px !important;
     margin-right: 10px !important;
     border-style: dashed;
-    background-color: #dc3136;
+    background-color: #ab8a17;
     color: #ffffff !important;
-    border: 1px solid #dc3136;
+    border: 1px solid #ab8a17;
 }
 
 
@@ -1151,8 +1151,8 @@ margin-top: -2px !important;
   padding-left: 0px;
   padding-right: 0px;
   padding-bottom: 0px;
-  border-radius: 0px !important;
-  border: 1px solid #e1e1e3 !important;
+  border-radius: 14px !important;
+  border: 1px solid #2a2a2f !important;
 }
 
 .combat2 {
@@ -1403,7 +1403,7 @@ img.GIF {
   padding-bottom: -2px !important;
     padding-left: 0px !important;
     padding-right: 0px !important;
-border-radius: 0px 0px 0px 0px !important;
+border-radius: 14px 14px 0px 0px !important;
   opacity: 0.6 !important;
 
 }
@@ -1657,7 +1657,7 @@ body {
     font-family: "Saoecom2fontlight" !important;
 line-height: 1.3 !important;
   letter-spacing: 0.01em !important;
-  color: #221f20 !important;
+  color: #efeff1 !important;
   margin-bottom: 12px !important;
   text-align: left !important;
   margin-right:  3% !important;
@@ -4037,9 +4037,9 @@ h1.tag {
     margin-left: 25px !important;
     margin-right: 10px !important;
     border-style: dashed;
-    background-color: #dc3136;
+    background-color: #aa8a18;
     color: #ffffff !important;
-    border: 1px solid #dc3136;
+    border: 1px solid #aa8a18;
     text-align: left !important;
 }
 
@@ -4198,7 +4198,7 @@ h1.tag {
 
 .container2 {
   padding-top: 90px !important;
-  background-color: #fff !important;
+  background-color: #1f1f23 !important;
   margin-top: -40px !important;
   margin-bottom: 28px !important;
 }
