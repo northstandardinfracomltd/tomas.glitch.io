@@ -2746,7 +2746,7 @@ img.navlogo {
 
 .nav__logo {
   object-fit: contain;  
-      width: 98% !important;
+      width: 82px !important;
     max-width: 330px !important;
   object-fit: contain;
   margin-top: 0px !important;
@@ -2765,7 +2765,7 @@ img.navlogo {
 
 @media screen and (max-width: 680px) {
 	.nav__logo {
-    width: 98% !important;
+    width: 30% !important;
     max-width: 340px !important;
   object-fit: contain;
   margin-top: 2px !important;
@@ -2819,7 +2819,7 @@ img.navlogo {
   z-index: 1;
   transition-timing-function: ease-in;
   transition: all 0.5s;
-  background: #fff !important;
+  background: #18181b !important;
   border-bottom: 1px solid #e1e1e3 !important;
     display: flex;
   align-items: center;
@@ -4508,7 +4508,7 @@ a:hover {
   flex: 25% !important;
   max-width: 25% !important;
   box-sizing: border-box !important;
-  padding: 10px !important;
+  padding: 0px !important;
     margin-top : auto !important;
   margin-bottom: auto !important;
 }
