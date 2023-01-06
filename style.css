@@ -1026,7 +1026,7 @@ a:not(.btn--remix):visited {
   font-style: normal;
   font-weight: normal;
   font-size: 1.1rem;
-  color: #a29a9d;
+  color: #efeff1;
   text-decoration: none;
   border-style: none;
 }
@@ -2749,9 +2749,9 @@ img.navlogo {
       width: 82px !important;
     max-width: 330px !important;
   object-fit: contain;
-  margin-top: 0px !important;
-    margin-bottom: -5px !important;
-  margin-left: -px !important;
+  margin-top: 3px !important;
+    margin-bottom: -2px !important;
+  margin-left: -8px !important;
 }
 
 @media screen and (max-width: 980px) {
@@ -4388,20 +4388,21 @@ a:hover {
   white-space: nowrap;
     padding-top: 12px !important;
     padding-bottom: 12px !important;
-    padding-right: 16px !important;
-    padding-left: 18px !important;
+    padding-right: 20px !important;
+    padding-left: 22px !important;
     font-size: 1.1rem;
     font-weight: var(--base-text-weight-medium, 500);
     vertical-align: middle;
     cursor: pointer;
     -webkit-user-select: none;
-    border-radius: 6px !important;
+    border-radius: 10px !important;
     font-family: "Saoecom2font" !important;
     text-align: center !important;
     border-style: dashed;
     background-color: hsl(240deg 3% 17%);
     color: hsl(240deg 7% 94%) !important;
     border: 1px solid hsl(240deg 3% 17%);
+  margin-right: -0px !important;
 }
 
 
@@ -4410,20 +4411,21 @@ a:hover {
   white-space: nowrap;
     padding-top: 12px !important;
     padding-bottom: 12px !important;
-    padding-right: 16px !important;
-    padding-left: 18px !important;
+    padding-right: 20px !important;
+    padding-left: 22px !important;
     font-size: 1.1rem;
     font-weight: var(--base-text-weight-medium, 500);
     vertical-align: middle;
     cursor: pointer;
     -webkit-user-select: none;
-    border-radius: 6px !important;
+    border-radius: 10px !important;
     font-family: "Saoecom2font" !important;
     text-align: center !important;
     border-style: dashed;
     background-color: hsl(240deg 3% 17%);
     color: hsl(240deg 7% 94%) !important;
     border: 1px solid hsl(240deg 3% 17%);
+  margin-right: -0px !important;
 }
 
 
@@ -4433,15 +4435,15 @@ a:hover {
 }
 
 .dd-menu {
-  position: absolute;
-  top: 100%;
-  border: 1px solid #e1e1e3;
-  border-radius: 10px;
-  padding: 0 !important;
-  padding-top: 10px !important;
-  margin: 6px 10px 10px -123px !important;
-  background-color: #ffffff;
-  list-style-type: none;
+    position: absolute;
+    top: 100%;
+    border: 1px solid #242429;
+    border-radius: 10px;
+    padding: 0 !important;
+    padding-top: 10px !important;
+    margin: 6px 10px 10px -91px !important;
+    background-color: #18181b;
+    list-style-type: none;
 }
 
 .dd-input + .dd-menu {
@@ -4457,14 +4459,14 @@ a:hover {
   cursor: pointer;
   white-space: nowrap;
     padding-bottom: 10px !important;
-  color: #000 !important;
+  color: #efeff1 !important;
 
 }
 
 .dd-menu li:hover {
-  background-color: #fff;
+  background-color: #18181b;
     border-radius: 10px;
-    color: #8b949e !important;
+    color: #efeff1 !important;
 }
 
 .dd-menu li a {
@@ -4475,7 +4477,8 @@ a:hover {
 
 .dd-menu li.divider{
   padding: 0;
-  border-bottom: 1px solid #e1e1e3;
+  border-bottom: 1px solid #242429;
+  padding-bottom: 3px !important;
 }
 
 
