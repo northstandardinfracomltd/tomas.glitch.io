@@ -1685,7 +1685,7 @@ line-height: 1.1 !important;
 }
 
 .entranceZ1sub {
-  font-size: 22px !important;
+  font-size: 21px !important;
     font-family: "Saoecom2fontlight" !important;
 line-height: 1.3 !important;
   letter-spacing: 0.01em !important;
@@ -1693,7 +1693,7 @@ line-height: 1.3 !important;
   margin-bottom: 20px !important;
   text-align: center !important;
   margin-right:  3% !important;
-  margin-left: 10px !important;
+  margin-left: 3% !important;
   margin-top: 20px !important;
   padding-bottom: 25px !important;
   padding-top: 20px !important;
@@ -1704,7 +1704,7 @@ line-height: 1.3 !important;
 
 
 .entranceZ1sublinked {
-  font-size: 19px !important;
+  font-size: 21px !important;
     font-family: "Saoecom2fontlight" !important;
 line-height: 1.3 !important;
   letter-spacing: 0.01em !important;
@@ -1713,7 +1713,7 @@ line-height: 1.3 !important;
   text-align: center !important;
   margin-right:  3% !important;
   margin-left: 3% !important;
-  margin-top: -30px !important;
+  margin-top: -28px !important;
   padding-bottom: 11px !important;
   padding-top: 0px !important;
   padding-right: 15px !important;
@@ -2128,6 +2128,7 @@ purpleblocksS {
 background-size: 205.88px 254.24px;
   max-width: 100% !important;
   padding: 0px 0px;
+  padding-top: 20px !important;
   margin-top: -30px !important;
 padding-left: 20px !important;
   width: 100%; 
@@ -4456,6 +4457,7 @@ a:hover {
   white-space: nowrap;
     padding-bottom: 10px !important;
   color: #efeff1 !important;
+  text-align: left !important;
 
 }
 
