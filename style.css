@@ -4197,6 +4197,40 @@ h1.tag {
   
 }
 
+.containerYYYY {
+  display: flex;
+  margin-top: 40px !important;
+}
+
+.left-column {
+  width: 50%;
+}
+
+.right-column {
+  width: 50%;
+  background-image: url(https://cdn.glitch.global/75ffb288-9d41-4924-bc6f-b702c013bbe7/r-architecture-2gDwlIim3Uw-unsplash.jpg?v=1673045588646);
+  background-size: cover;
+}
+
+
+@media screen and (max-width: 680px)
+.left-column, .right-column {
+    flex-basis: 100%;
+    margin: 0px 0px 0px 0px !important;
+}
+@media screen and (max-width: 980px)
+.left-column, .right-column {
+    flex-basis: 52%;
+    &: nth-last-child(2) {;
+    margin: 0 0 0 0 !important;
+    }: ;
+    &: last-child {;
+    flex-basis: 100%;
+    margin: 0;
+    }: ;
+}
+
+
 
 
 .container2 {
