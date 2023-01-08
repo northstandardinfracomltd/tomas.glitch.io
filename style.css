@@ -4227,6 +4227,53 @@ h1.tag {
   margin-bottom: 0px !important;
 }
 
+.container2bamboo {
+  background-color: #1f1f23 !important;
+  margin-bottom: 0px !important;
+  max-width: 100%;
+  margin: 0px auto;
+  padding: 0 0px;
+  width: 100%; 
+  display: grid;
+  /*Define our columns */
+  grid-gap: 1em;
+}
+
+
+
+purpleblocksbamboo {
+  max-width: 50%;
+  margin: 30px auto;
+  padding: 0 10px;
+  width: 100%; 
+  display: grid;
+  /*Define our columns */
+  grid-gap: 1em;
+}
+
+@media screen and (max-width: 980px) {
+  purpleblocksbamboo {
+  max-width: 50%;
+  margin: 30px auto;
+  padding: 0 10px;
+  width: 100%; 
+  display: grid;
+  /*Define our columns */
+  grid-gap: 1em;
+}
+}
+
+@media screen and (max-width: 680px) {
+	purpleblocksbamboo {
+  max-width: 100%;
+  margin: 30px auto;
+  padding: 0 10px;
+  width: 100%; 
+  display: grid;
+  /*Define our columns */
+  grid-gap: 1em;
+}
+}
 
 
 
@@ -4649,7 +4696,7 @@ purpleblocksabsolu {
 	}
 }
 
-  .combat000P3absolu {
+.combat000P3absolu {
   background: #ffffff;
   width: 100%;
   display: flex;
@@ -4667,7 +4714,6 @@ purpleblocksabsolu {
   top: 0;
   transition: top ease 0.5s;
 }
-
 
 
 
