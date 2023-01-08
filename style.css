@@ -1307,7 +1307,7 @@ margin-top: -2px !important;
 .combat000P3baba22 {
   background: linear-gradient(rgb(24 24 27 / 36%), rgb(24 24 27 / 44%)), url(https://cdn.glitch.global/75ffb288-9d41-4924-bc6f-b702c013bbe7/FOUNDER.jpg?v=1673208469154) no-repeat center center;
   background-size: cover;
-  height: 500px;
+  height: 750px;
   position: relative;
     width: 50%;
   display: flex;
@@ -1367,6 +1367,49 @@ margin-top: -2px !important;
 }
 
 .combat000P3baba22offrepro:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+    width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 0px;
+  margin-bottom: 5px !important;
+    position: relative;
+  top: 0;
+  transition: top ease 0.5s;
+}
+
+
+
+.combat000P3baba22com {
+  background: linear-gradient(rgb(24 24 27 / 36%), rgb(24 24 27 / 44%)), url(https://cdn.glitch.global/75ffb288-9d41-4924-bc6f-b702c013bbe7/Offre%20pro-min.png?v=1673208463773) no-repeat center center;
+  background-size: cover;
+  height: 500px;
+  position: relative;
+    width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 0px;
+  margin-bottom: 0px !important;
+    position: relative;
+  top: 0;
+  transition: top ease 0.5s;
+}
+
+.combat000P3baba22com:before {
   content: "";
   position: absolute;
   top: 0;
@@ -1622,6 +1665,176 @@ margin-top: -2px !important;
 }
 
 .combat000P3baba22admin:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+    width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 0px;
+  margin-bottom: 5px !important;
+    position: relative;
+  top: 0;
+  transition: top ease 0.5s;
+}
+
+
+.combat000P3baba22interieur {
+  background: linear-gradient(rgb(24 24 27 / 36%), rgb(24 24 27 / 44%)), url(https://cdn.glitch.global/75ffb288-9d41-4924-bc6f-b702c013bbe7/Ame%CC%81nagement%20inte%CC%81rieur-min.png?v=1673208226869) no-repeat center center;
+  background-size: cover;
+  height: 500px;
+  position: relative;
+    width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 0px;
+  margin-bottom: 0px !important;
+    position: relative;
+  top: 0;
+  transition: top ease 0.5s;
+}
+
+.combat000P3baba22interieur:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+    width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 0px;
+  margin-bottom: 5px !important;
+    position: relative;
+  top: 0;
+  transition: top ease 0.5s;
+}
+
+
+.combat000P3baba22faisa {
+  background: linear-gradient(rgb(24 24 27 / 36%), rgb(24 24 27 / 44%)), url(https://cdn.glitch.global/75ffb288-9d41-4924-bc6f-b702c013bbe7/faisabilite%20tech-min.png?v=1673208404512) no-repeat center center;
+  background-size: cover;
+  height: 500px;
+  position: relative;
+    width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 0px;
+  margin-bottom: 0px !important;
+    position: relative;
+  top: 0;
+  transition: top ease 0.5s;
+}
+
+.combat000P3baba22faisa:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+    width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 0px;
+  margin-bottom: 5px !important;
+    position: relative;
+  top: 0;
+  transition: top ease 0.5s;
+}
+
+
+.combat000P3baba22appel {
+  background: linear-gradient(rgb(24 24 27 / 36%), rgb(24 24 27 / 44%)), url(https://cdn.glitch.global/75ffb288-9d41-4924-bc6f-b702c013bbe7/appel%20offre-min.png?v=1673208250597) no-repeat center center;
+  background-size: cover;
+  height: 500px;
+  position: relative;
+    width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 0px;
+  margin-bottom: 0px !important;
+    position: relative;
+  top: 0;
+  transition: top ease 0.5s;
+}
+
+.combat000P3baba22appel:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+    width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 0px;
+  margin-bottom: 5px !important;
+    position: relative;
+  top: 0;
+  transition: top ease 0.5s;
+}
+
+
+
+
+.combat000P3baba22prez {
+  background: linear-gradient(rgb(24 24 27 / 36%), rgb(24 24 27 / 44%)), url(https://cdn.glitch.global/75ffb288-9d41-4924-bc6f-b702c013bbe7/prez-min.png?v=1673208504419) no-repeat center center;
+  background-size: cover;
+  height: 500px;
+  position: relative;
+    width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 0px;
+  margin-bottom: 0px !important;
+    position: relative;
+  top: 0;
+  transition: top ease 0.5s;
+}
+
+.combat000P3baba22prez:before {
   content: "";
   position: absolute;
   top: 0;
