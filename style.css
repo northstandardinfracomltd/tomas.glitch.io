@@ -4199,26 +4199,26 @@ h1.tag {
 
 
 .containerbob {
-  border-bottom: 1px solid #242429 !important;
+  border-bottom: 1px solid #242429;
 }
 
 .colgauche {
-  background-color: #18181b !important;
+  background-color: #18181b;
 }
 
 .coldroite {
-  background-image: url('https://cdn.glitch.global/75ffb288-9d41-4924-bc6f-b702c013bbe7/r-architecture-2gDwlIim3Uw-unsplash.jpg?v=1673045588646') !important;
-  background-position: center !important;
-  background-size: cover !important;
-  height: 600px !important;
+  background-image: url('https://cdn.glitch.global/75ffb288-9d41-4924-bc6f-b702c013bbe7/r-architecture-2gDwlIim3Uw-unsplash.jpg?v=1673045588646');
+  background-position: center;
+  background-size: cover;
+  height: 600px;
 }
 
 @media only screen and (max-width: 767px) {
   .colgauche, .coldroite {
-    width: 100% !important;
+    width: 100%;
+    float: none;
   }
 }
-
 
 .container2 {
   padding-top: 5px !important;
@@ -4606,7 +4606,7 @@ a:hover {
 }
   
   
-  purpleblocksabsolu {
+purpleblocksabsolu {
   max-width: 100%;
   margin: 0px auto;
   padding: 0 0px;
@@ -4615,8 +4615,9 @@ a:hover {
   /*Define our columns */
   grid-gap: 1em;
 }
+
   
-  .columnsabsolu {
+.columnsabsolu {
   background: #fff !important;
 	display: flex;
 	flex-flow: row wrap;
@@ -4626,10 +4627,29 @@ a:hover {
 	margin-right: 0px;
 	margin-left: 0px;
 }
+  
+  
+@media screen and (max-width: 980px) {
+  .columnsabsolu .columnabsolu {
+    flex-basis: 52%;
+		&:nth-last-child(2) {
+		margin: 0 0 0 0 !important;
+		}
+		&:last-child {
+			flex-basis: 100%;
+			margin: 0;
+		}
+	}
+}
 
-  
-  
-.combat000P3absolu {
+@media screen and (max-width: 680px) {
+	.columnsabsolu .columnabsolu {
+		flex-basis: 100%;
+		margin: 0px 0px 0px 0px !important;
+	}
+}
+
+  .combat000P3absolu {
   background: #ffffff;
   width: 100%;
   display: flex;
@@ -4650,6 +4670,7 @@ a:hover {
 
 
 
+
 @media screen and (max-width: 980px) {
   combat000P3absolu:hover {
   top: 0 !important;
@@ -4661,7 +4682,6 @@ a:hover {
   top: 0 !important;
 }
 }
-  
   
   
 .entranceZ1titleabsolu {
@@ -4737,6 +4757,28 @@ line-height: 1.1 !important;
 }
 }
   
+
+
+.combat000P3absoluX {
+  background-image: url("https://cdn.glitch.global/2f73cbf9-570d-4044-b35c-1ae63a96f6c4/Untitled%20design%20(1)%20(1).png?v=1672611438008");
+  background-size: cover;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 0px;
+  border-radius: 0px !important;
+  border-style: solid;
+  border-bottom: 1px solid #e1e1e3 !important;
+  margin-bottom: 5px !important;
+    position: relative;
+  top: 0;
+  transition: top ease 0.5s;
+}
+
   
   
 .btnsub000P3rayabsolu {
