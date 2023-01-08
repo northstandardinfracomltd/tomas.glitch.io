@@ -1469,6 +1469,35 @@ margin-top: -8px !important;
 
 
 
+img.GIFbebe {
+  width: 100% !important;
+  padding-top: 0px;
+  padding-bottom: -2px !important;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+border-radius: 14px 14px 0px 0px !important;
+  opacity: 0.8 !important;
+  margin-top: -10px !important;
+
+}
+
+@media screen and (max-width: 980px) {
+  img.GIFbebe {
+		    width: 100% !important;
+      padding-top: 0px;
+
+	}
+}
+
+@media screen and (max-width: 680px) {
+	img.GIFbebe {
+		    width: 100% !important;
+      padding-top: 0px;
+
+	}
+}
+
+
 
 img.GIF {
   width: 100% !important;
