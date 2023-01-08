@@ -1305,7 +1305,7 @@ margin-top: -2px !important;
 }
 
 .combat000P3baba22 {
-  background: linear-gradient(rgb(24 24 27 / 36%), rgb(24 24 27 / 44%)), url(https://cdn.glitch.global/75ffb288-9d41-4924-bc6f-b702c013bbe7/r-architecture-2gDwlIim3Uw-unsplash.jpg?v=1673045588646) no-repeat center center;
+  background: linear-gradient(rgb(24 24 27 / 36%), rgb(24 24 27 / 44%)), url(https://cdn.glitch.global/75ffb288-9d41-4924-bc6f-b702c013bbe7/FOUNDER.jpg?v=1673208469154) no-repeat center center;
   background-size: cover;
   height: 500px;
   position: relative;
@@ -1344,6 +1344,50 @@ margin-top: -2px !important;
   top: 0;
   transition: top ease 0.5s;
 }
+
+
+
+.combat000P3baba22offrepro {
+  background: linear-gradient(rgb(24 24 27 / 36%), rgb(24 24 27 / 44%)), url(https://cdn.glitch.global/75ffb288-9d41-4924-bc6f-b702c013bbe7/Offre%20pro-min.png?v=1673208463773) no-repeat center center;
+  background-size: cover;
+  height: 500px;
+  position: relative;
+    width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 0px;
+  margin-bottom: 0px !important;
+    position: relative;
+  top: 0;
+  transition: top ease 0.5s;
+}
+
+.combat000P3baba22offrepro:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+    width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 0px;
+  margin-bottom: 5px !important;
+    position: relative;
+  top: 0;
+  transition: top ease 0.5s;
+}
+
 
 
 
