@@ -1305,7 +1305,7 @@ margin-top: -2px !important;
 }
 
 .combat000P3baba22 {
-  background: url('https://cdn.glitch.global/75ffb288-9d41-4924-bc6f-b702c013bbe7/r-architecture-2gDwlIim3Uw-unsplash.jpg?v=1673045588646') no-repeat center center;
+  background: linear-gradient(rgb(24 24 27 / 36%), rgb(24 24 27 / 44%)), url(https://cdn.glitch.global/75ffb288-9d41-4924-bc6f-b702c013bbe7/r-architecture-2gDwlIim3Uw-unsplash.jpg?v=1673045588646) no-repeat center center;
   background-size: cover;
   height: 500px;
   position: relative;
@@ -1914,14 +1914,30 @@ line-height: 1.3 !important;
 }
 
 
-.entranceZ13000P3baba {
+.entranceZ13000P3baba1 {
+  font-size: 30px !important;
+    font-family: "Saoecom2font" !important;
+line-height: 1.3 !important;
+  letter-spacing: 0.01em !important;
+  color: #ebcf6f !important;
+  margin-bottom: 12px !important;
+  text-align: left !important;
+  margin-right:  3% !important;
+  margin-left: 3% !important;
+  padding-bottom: 11px !important;
+  padding-top: 6px !important;
+  padding-right: 15px !important;
+  padding-left: 15px !important;
+}
+
+.entranceZ13000P3baba2 {
   font-size: 22px !important;
     font-family: "Saoecom2fontlight" !important;
 line-height: 1.3 !important;
   letter-spacing: 0.01em !important;
   color: #efeff1 !important;
   margin-bottom: 12px !important;
-  text-align: center !important;
+  text-align: left !important;
   margin-right:  3% !important;
   margin-left: 3% !important;
   padding-bottom: 11px !important;
@@ -2640,15 +2656,14 @@ header {
 
 @media screen and (max-width: 980px) {
   .columnsbaba .columnbaba {
-		margin-bottom: 15px !important;
-    flex-basis: 40%;
-		&:nth-last-child(2) {
-			margin-right: 0;
-		}
-		&:last-child {
-			flex-basis: 100%;
-			margin: 0;
-		}
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: center;
+	margin-top: 12px;
+  	margin-bottom: 0px;
+	margin-right: 0px;
+	margin-left: 0px;
+  width: 50%;
 	}
 }
 
