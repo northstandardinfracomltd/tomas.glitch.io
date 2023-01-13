@@ -3091,6 +3091,20 @@ padding-left: 20px !important;
 
 }
 
+gridthat {
+  max-width: 100%;
+  width: 100%; 
+}
+
+
+
+
+
+
+
+
+
+
 purpleblocks2 {
   max-width: 1200px;
   margin: 30px auto;
@@ -5927,14 +5941,5 @@ line-height: 1.1 !important;
     margin-right: 10px !important;
 
 }
+  
 
-.grid-itemxx {
-  width:50% !important;
-  overflow: hidden !important;
-  object-fit: none !important;
-  object-position: center !important;
-}
-
-.fred {
-  width:50% !important;
-}
