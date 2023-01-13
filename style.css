@@ -1305,7 +1305,7 @@ margin-top: -2px !important;
 }
 
 .combat000P3baba22 {
-  background: linear-gradient(rgb(24 24 27 / 36%), rgb(24 24 27 / 44%)), url(https://cdn.glitch.global/75ffb288-9d41-4924-bc6f-b702c013bbe7/FOUNDER.jpg?v=1673208469154) no-repeat center center;
+  background: linear-gradient(rgb(24 24 27 / 36%), rgb(24 24 27 / 44%)), url(https://cdn.glitch.global/1622af80-62c9-43bd-bb26-0d3d809cd9d5/hero.png?v=1673627006667) no-repeat center center;
   background-size: cover;
   height: 750px;
   position: relative;
@@ -1348,7 +1348,7 @@ margin-top: -2px !important;
 
 
 .combat000P3baba22B1 {
-  background: linear-gradient(rgb(24 24 27 / 36%), rgb(24 24 27 / 44%)), url(https://cdn.glitch.global/75ffb288-9d41-4924-bc6f-b702c013bbe7/B1-min.png?v=1673208266231) no-repeat center center;
+  background: linear-gradient(rgb(24 24 27 / 36%), rgb(24 24 27 / 44%)), url(https://cdn.glitch.global/1622af80-62c9-43bd-bb26-0d3d809cd9d5/hero.png?v=1673627006667) no-repeat center center;
   background-size: cover;
   height: 500px;
   position: relative;
@@ -1390,7 +1390,7 @@ margin-top: -2px !important;
 
 
 .combat000P3baba22B2 {
-  background: linear-gradient(rgb(24 24 27 / 36%), rgb(24 24 27 / 44%)), url(https://cdn.glitch.global/75ffb288-9d41-4924-bc6f-b702c013bbe7/B2-min.png?v=1673208282208) no-repeat center center;
+  background: linear-gradient(rgb(24 24 27 / 36%), rgb(24 24 27 / 44%)), url(https://cdn.glitch.global/1622af80-62c9-43bd-bb26-0d3d809cd9d5/hero.png?v=1673627006667) no-repeat center center;
   background-size: cover;
   height: 500px;
   position: relative;
@@ -2321,9 +2321,10 @@ img.GIFSS {
 border-radius: 0px 0px 15px 15px !important;
   opacity: 0.8 !important;
   text-align: center !important;
+    margin-top: 70px;
 margin-left: auto;
   margin-right: auto;
-  margin-bottom: 66px;
+  margin-bottom: 75px;
 }
 
 @media screen and (max-width: 980px) {
@@ -3728,30 +3729,32 @@ img.navlogo {
 
 .nav__logo {
   object-fit: contain;  
-      width: 113px !important;
+      width: 118px !important;
     max-width: 330px !important;
     object-fit: contain;
     margin-top: 0px !important;
-    margin-bottom: -2px !important;
+    margin-bottom: -4px !important;
     margin-left: 10px !important;
 }
 
 @media screen and (max-width: 980px) {
   .nav__logo {
-    width: 82px !important;
-    max-width: 320px !important;
+    width: 118px !important;
+    max-width: 330px !important;
   object-fit: contain;
-  margin-top: -1px !important;
+  margin-top: 0px !important;
     margin-bottom: -5px !important;
+        margin-left: 10px !important;
   }
 }
 
 @media screen and (max-width: 680px) {
 	.nav__logo {
-    width: 82px !important;
+    width: 118px !important;
     max-width: 340px !important;
   object-fit: contain;
-  margin-top: -3px !important;
+  margin-top: 3px !important;
+      margin-bottom: -2px !important;
     margin-left: 10px !important;
   }
 }
@@ -5169,7 +5172,7 @@ h1.tag {
   width: 100%; 
   display: grid;
   grid-gap: 1em;
-  background: linear-gradient(rgb(24 24 27 / 86%), rgb(24 24 27 / 57%)), url('https://cdn.glitch.global/75ffb288-9d41-4924-bc6f-b702c013bbe7/PROJECT%20BY%20SM.jpg?v=1673215054346');
+  background: linear-gradient(rgb(24 24 27 / 86%), rgb(24 24 27 / 80%)), url('https://cdn.glitch.global/1622af80-62c9-43bd-bb26-0d3d809cd9d5/hero.png?v=1673627006667');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -5458,9 +5461,9 @@ a:hover {
     font-family: "Saoecom2font" !important;
     text-align: center !important;
     border-style: dashed;
-    background-color: hsl(240deg 3% 17%);
+    background-color: hsl(347deg 65% 48%);
     color: hsl(240deg 7% 94%) !important;
-    border: 1px solid hsl(240deg 3% 17%);
+    border: 1px solid hsl(347deg 65% 48%);
   margin-right: -0px !important;
 }
 
@@ -5481,9 +5484,9 @@ a:hover {
     font-family: "Saoecom2font" !important;
     text-align: center !important;
     border-style: dashed;
-    background-color: hsl(240deg 3% 17%);
+    background-color: hsl(347deg 68% 56%);
     color: hsl(240deg 7% 94%) !important;
-    border: 1px solid hsl(240deg 3% 17%);
+    border: 1px solid hsl(347deg 68% 56%);
   margin-right: -0px !important;
 }
 
