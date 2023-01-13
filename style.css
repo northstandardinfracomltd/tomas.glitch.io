@@ -3118,7 +3118,7 @@ gridthat {
 
 @media screen and (max-width: 980px) {
 gridthat {
-  width: 1200px; 
+  width: 1; 
       display: flex;
     flex-wrap: wrap;
   margin-left: auto;
