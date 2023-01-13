@@ -5913,3 +5913,28 @@ line-height: 1.1 !important;
     border-bottom: 1px solid #e1e1e3 !important;
   padding-bottom: 20px !important;
 }
+
+  
+  
+  .grid-container {
+  width: 100% !important;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 10px;
+  margin-top: 40px !important;
+    margin-bottom: 80px !important;
+  margin-left: 10px !important;
+    margin-right: 10px !important;
+
+}
+
+.grid-item {
+  width:100%;
+  overflow: hidden !important;
+  object-fit: none;
+  object-position: center;
+}
+
+.fred {
+  width:100% !important;
+}
