@@ -3098,7 +3098,19 @@ gridthat {
   margin-left: auto;
   margin-right: auto;
       padding-right: 12px !important;
-  padding-left: 12px !important;
+  padding-left: 5px !important;
+  padding-bottom: 15px;
+}
+
+gridthatfooter {
+  width: 1200px; 
+      display: flex;
+    flex-wrap: wrap;
+  margin-left: auto;
+  margin-right: auto;
+      padding-right: 12px !important;
+  padding-left: 5px !important;
+  padding-bottom: 99px;
 }
 
 .gridthatcol1 {
@@ -3162,6 +3174,31 @@ gridthat {
 }
 
 
+@media screen and (max-width: 980px) {
+gridthatfooter {
+  width: 100%; 
+      display: flex;
+    flex-wrap: wrap;
+  margin-left: auto;
+  margin-right: auto;
+      padding-right: 12px !important;
+  padding-left: 12px !important;
+}
+}
+
+@media screen and (max-width: 680px) {
+gridthatfooter {
+  width: 100%; 
+      display: flex;
+    flex-wrap: wrap;
+  margin-left: auto;
+  margin-right: auto;
+      padding-right: 12px !important;
+  padding-left: 12px !important;
+}
+}
+
+
 
 @media screen and (max-width: 980px) {
 .imggrid {
@@ -3204,7 +3241,8 @@ gridthat {
   width: 100% !important;
     object-fit: contain !important;
   max-height: 300px;
-  margin-top: 20px !important;
+  margin-top: 5px !important;
+  padding-left: 10px !important;
 }
 }
 
