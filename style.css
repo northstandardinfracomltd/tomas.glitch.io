@@ -3783,9 +3783,9 @@ img.navlogo {
 
 @media screen and (max-width: 680px) {
 	.nav__logoF {
-  width: 100%;
+  width: 220px;
   object-fit: contain;
-  margin-left: 0px;
+  margin-left: -5px;
       margin-right: 0px;
   margin-top: 10px;
       padding-left: none;
@@ -3876,6 +3876,7 @@ img.navlogo {
   font-style: normal;
   color: #a29a9d;
   margin-top: 12px;
+  margin-bottom: 20px;
 }
 
 .footer__btn {
