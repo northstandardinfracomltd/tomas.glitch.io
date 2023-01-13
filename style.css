@@ -5918,9 +5918,9 @@ line-height: 1.1 !important;
   
   .grid-container {
   width: 100% !important;
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  grid-gap: 10px;
+  display: grid !important;
+  grid-template-columns: repeat(2, 1fr) !important;
+  grid-gap: 10px !important;
   margin-top: 40px !important;
     margin-bottom: 80px !important;
   margin-left: 10px !important;
@@ -5929,10 +5929,10 @@ line-height: 1.1 !important;
 }
 
 .grid-item {
-  width:100%;
+  width:100% !important;
   overflow: hidden !important;
-  object-fit: none;
-  object-position: center;
+  object-fit: none !important;
+  object-position: center !important;
 }
 
 .fred {
