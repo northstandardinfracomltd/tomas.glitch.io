@@ -3097,32 +3097,37 @@ gridthat {
     flex-wrap: wrap;
   margin-left: auto;
   margin-right: auto;
+      padding-right: 12px !important;
+  padding-left: 12px !important;
 }
 
 .gridthatcol1 {
-  flex: 50% !!important; 
-    max-width: 600px !!important; 
-  background-color: red !important;
-  width: 600px !important;
-    max-height: 300px;
+  flex: 25% !!important; 
+    max-width: 300px !!important; 
+  background-color: transparent !important;
+  width: 300px !important;
+    max-height: 400px;
 }
 
 .imggrid {
-  background-color: red !important;
-      width: 600px !important;
+  background-color: transparent !important;
+      width: 300px !important;
   object-fit: contain !important;
-    max-height: 300px;
+    max-height: 400px;
+  margin-top: 20px !important;
 }
 
 
 
 @media screen and (max-width: 980px) {
 gridthat {
-  width: 1; 
+  width: 100%; 
       display: flex;
     flex-wrap: wrap;
   margin-left: auto;
   margin-right: auto;
+      padding-right: 12px !important;
+  padding-left: 12px !important;
 }
 }
 
@@ -3133,6 +3138,8 @@ gridthat {
     flex-wrap: wrap;
   margin-left: auto;
   margin-right: auto;
+      padding-right: 12px !important;
+  padding-left: 12px !important;
 }
 }
 
@@ -3141,20 +3148,22 @@ gridthat {
 @media screen and (max-width: 980px) {
 .imggrid {
   flex: 50% !!important; 
-  background-color: red !important;
+  background-color: transparent !important;
   width: 100% !important;
     object-fit: contain !important;
-  max-height: 300px;
+  max-height: 400px;
+  margin-top: 20px !important;
 }}
 
 @media screen and (max-width: 680px) {
 .imggrid {
   flex: 50% !!important; 
     max-width: 600px !!important; 
-  background-color: red !important;
+  background-color: transparent !important;
   width: 100% !important;
     object-fit: contain !important;
   max-height: 300px;
+  margin-top: 20px !important;
 }
 }
 
@@ -3163,7 +3172,7 @@ gridthat {
 @media screen and (max-width: 980px) {
 .gridthatcol1 {
   flex: 50% !!important; 
-  background-color: red !important;
+  background-color: transparent !important;
   width: 50% !important;
     max-height: 300px;
 }
@@ -3173,7 +3182,7 @@ gridthat {
 .gridthatcol1 {
   flex: 50% !!important; 
     max-width: 50% !!important; 
-  background-color: red !important;
+  background-color: transparent !important;
   width: 50% !important;
     max-height: 300px;
 }
