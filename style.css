@@ -2994,7 +2994,7 @@ input {
 /* SAOECOM */
 h2 {
   font-size: 1.2rem !important;
-  color: #ebcf6f !important;
+  color: #db5a77 !important;
   padding-left: 0px !important;
  padding-right: 20px !important;
   padding-top: 20px !important;
@@ -3728,12 +3728,12 @@ img.navlogo {
 
 .nav__logo {
   object-fit: contain;  
-      width: 82px !important;
+      width: 113px !important;
     max-width: 330px !important;
-  object-fit: contain;
-  margin-top: 3px !important;
+    object-fit: contain;
+    margin-top: 0px !important;
     margin-bottom: -2px !important;
-  margin-left: -8px !important;
+    margin-left: 10px !important;
 }
 
 @media screen and (max-width: 980px) {
@@ -3751,8 +3751,8 @@ img.navlogo {
     width: 82px !important;
     max-width: 340px !important;
   object-fit: contain;
-  margin-top: 2px !important;
-    margin-left: -5px !important;
+  margin-top: -3px !important;
+    margin-left: 10px !important;
   }
 }
 
@@ -5500,7 +5500,7 @@ a:hover {
     border-radius: 10px;
     padding: 0 !important;
     padding-top: 10px !important;
-    margin: 5px 10px 10px -91px !important;
+    margin: 7px 10px 10px -182px !important;
     background-color: #18181b;
     list-style-type: none;
 }
