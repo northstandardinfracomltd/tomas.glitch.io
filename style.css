@@ -496,9 +496,9 @@ img.btnsub2-icon {
     margin-left: 25px !important;
     margin-right: 10px !important;
     border-style: dashed;
-    background-color: #ab8a17;
+    background-color: #cb2a4d;
     color: #ffffff !important;
-    border: 1px solid #ab8a17;
+    border: 1px solid #cb2a4d;
 }
 
 
@@ -523,9 +523,9 @@ img.btnsub2-icon {
     margin-left: 25px !important;
     margin-right: 10px !important;
     border-style: dashed;
-    background-color: #ab8a17;
+    background-color: #cb2a4d;
     color: #ffffff !important;
-    border: 1px solid #ab8a17;
+    border: 1px solid #cb2a4d;
 }
 
 
@@ -636,7 +636,7 @@ img.btnsub2-icon {
     margin-right: 0px !important;
     border-style: solid;
     background-color: #18181b;
-    color: #e9cf70 !important;
+    color: #e95677 !important;
     border-top: 1px solid #242429 !important;
     border-left: 0px solid rgb(24 24 27 / 0%) !important;
     border-bottom: 0px solid rgb(24 24 27 / 0%)!important;
@@ -666,7 +666,7 @@ img.btnsub2-icon {
     margin-right: 0px !important;
     border-style: solid;
     background-color: #1c1c20;
-    color: #e9cf70 !important;
+    color: #e95677 !important;
     border-top: 1px solid #242429 !important;
     border-left: 0px solid rgb(24 24 27 / 0%) !important;
     border-bottom: 0px solid rgb(24 24 27 / 0%) !important;
@@ -2313,18 +2313,18 @@ border-radius: 14px 14px 0px 0px !important;
 
 
 img.GIFSS {
-  width: 700px !important;
+  width: 640px !important;
   padding-top: 20px;
   padding-bottom: -2px !important;
     padding-left: 0px !important;
     padding-right: 0px !important;
 border-radius: 0px 0px 15px 15px !important;
-  opacity: 0.8 !important;
+  opacity: 0.9 !important;
   text-align: center !important;
-    margin-top: 70px;
+    margin-top: 80px;
 margin-left: auto;
   margin-right: auto;
-  margin-bottom: 75px;
+  margin-bottom: 85px;
 }
 
 @media screen and (max-width: 980px) {
@@ -2337,7 +2337,7 @@ margin-left: auto;
 
 @media screen and (max-width: 680px) {
 	img.GIFSS {
-  width: 100% !important;
+  width: 90% !important;
       padding-top: 10px;
 
 	}
@@ -3764,9 +3764,9 @@ img.navlogo {
   width: 350px;
   object-fit: contain;
   margin-left: -12px;
-  margin-top: -40px !important;
-  padding-left: 0px;
-  margin-bottom: -40px !important;
+  margin-top: -10px !important;
+  padding-left: 13px;
+  margin-bottom: 8px !important;
 }
 
 @media screen and (max-width: 980px) {
@@ -3776,17 +3776,20 @@ img.navlogo {
   margin-left: -8px;
   margin-top: 10px;
       padding-left: 4px;
+    margin-right: 10px;
 
 }
 }
 
 @media screen and (max-width: 680px) {
 	.nav__logoF {
-  width: 330px;
+  width: 100%;
   object-fit: contain;
-  margin-left: -8px;
+  margin-left: 0px;
+      margin-right: 0px;
   margin-top: 10px;
-      padding-left: 4px;
+      padding-left: none;
+          padding-right: none;
 }
 }
 
@@ -5172,7 +5175,7 @@ h1.tag {
   width: 100%; 
   display: grid;
   grid-gap: 1em;
-  background: linear-gradient(rgb(24 24 27 / 86%), rgb(24 24 27 / 80%)), url('https://cdn.glitch.global/1622af80-62c9-43bd-bb26-0d3d809cd9d5/hero.png?v=1673627006667');
+  background: linear-gradient(rgb(24 24 27 / 80%), rgb(24 24 27 / 70%)), url('https://cdn.glitch.global/1622af80-62c9-43bd-bb26-0d3d809cd9d5/hero.png?v=1673627006667');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -5484,9 +5487,9 @@ a:hover {
     font-family: "Saoecom2font" !important;
     text-align: center !important;
     border-style: dashed;
-    background-color: hsl(347deg 68% 56%);
+    background-color: hsl(347deg 65% 48%);
     color: hsl(240deg 7% 94%) !important;
-    border: 1px solid hsl(347deg 68% 56%);
+    border: 1px solid hsl(347deg 65% 48%);
   margin-right: -0px !important;
 }
 
