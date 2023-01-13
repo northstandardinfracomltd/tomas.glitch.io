@@ -3876,7 +3876,7 @@ img.navlogo {
   font-style: normal;
   color: #a29a9d;
   margin-top: 12px;
-  margin-bottom: 20px;
+  margin-bottom: 5px;
 }
 
 .footer__btn {
@@ -3955,6 +3955,7 @@ img.navlogo {
   color: #a29a9d !important;
   font-family: "Saoecom2fontlight" !important;
     font-size: 1.1rem;
+  margin-top: 20px;
 }
 
   
